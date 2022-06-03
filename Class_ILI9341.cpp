@@ -298,4 +298,6 @@ class cIli9341{
         this->refreshScreenEnabled = true;
         this->screenRefreshed = false;
     }
+
+    //tutaj zmiana w testowym branchu
 };
