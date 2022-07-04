@@ -1,1 +1,0 @@
-check if git repository working ok
