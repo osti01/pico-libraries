@@ -167,7 +167,7 @@ int main() {
 
     struct repeating_timer timer1;
     struct repeating_timer timer2;
-    add_repeating_timer_ms(1000, timerCallback, NULL, &timer1);
+    add_repeating_timer_ms(5, timerCallback, NULL, &timer1);
     add_repeating_timer_ms(5, timerRefreshScreen, NULL, &timer2);
 
  
